@@ -5,12 +5,12 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDh68tCGaF47CR1FqINXg4Vc5j_9NNcHB4",
-  authDomain: "chat-project-f6680.firebaseapp.com",
-  projectId: "chat-project-f6680",
-  storageBucket: "chat-project-f6680.appspot.com",
-  messagingSenderId: "138746904326",
-  appId: "1:138746904326:web:b62f7b61d4899ec0d36887",
+  apiKey: "AIzaSyBdRqHhmUzk4llpP33I6OEj9a2P0Da5QbE",
+  authDomain: "chat-vue3-quasar-35d1b.firebaseapp.com",
+  projectId: "chat-vue3-quasar-35d1b",
+  storageBucket: "chat-vue3-quasar-35d1b.appspot.com",
+  messagingSenderId: "504900951899",
+  appId: "1:504900951899:web:af1a0feb4169d164ba047e",
 };
 
 // Initialize Firebase
